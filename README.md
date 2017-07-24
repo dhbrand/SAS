@@ -1,0 +1,1 @@
+SAS was my first introduction into statistical programming.  I've completed both an introductory course and a course with more advanced concepts like macro language compiler and SQL with conditional logic.  You can find my homework assignments in the two directories to showcase a sample of the work I've completed.
